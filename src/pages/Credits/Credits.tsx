@@ -130,7 +130,7 @@ const Credits: React.FC<PageProps> = ({
 							data-splitting=""
 							className={`${S.textTypeOne} split-text hidden-init`}
 						>
-							Oluwatobiju
+							Ayomitide OAJ
 						</p>
 						<p
 							data-splitting=""
@@ -141,19 +141,19 @@ const Credits: React.FC<PageProps> = ({
 						<div className={S.media}>
 							<a
 								className={`${S.animateOpacity} ${S.icon}`}
-								href="https://twitter.com/tobijudah"
+								href="https://twitter.com/azionspecie"
 							>
 								<Twitter />
 							</a>
 							<a
 								className={`${S.animateOpacity} ${S.icon}`}
-								href="https://www.linkedin.com/in/oluwatobiju-judah-omotosho/"
+								href="https://www.linkedin.com/in/ayomitide-oaj-ba542b167/"
 							>
 								<LinkedIn />
 							</a>
 							<a
 								className={`${S.animateOpacity} ${S.icon}`}
-								href="https://github.com/Tobijudah"
+								href="https://github.com/ayomitide-oaj"
 							>
 								<GitHub />
 							</a>

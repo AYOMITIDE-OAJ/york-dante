@@ -1,6 +1,7 @@
 {
   "name": "york-and-dante",
   "version": "0.0.0",
+  "author": "Ayomitide OAJ",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",

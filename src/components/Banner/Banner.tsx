@@ -14,7 +14,7 @@ const Banner = () => {
 				data-splitting=""
 				className={`${S.textTwo} split-text hidden-init`}
 			>
-				Tobiju  X  Felix
+				Ayomitide OAJ X  Felix
 			</p>
 		</div>
 	);
